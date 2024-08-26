@@ -8,4 +8,8 @@ Duplicate Media Finder is a Python-based application designed to identify and re
 * Hash-based Comparison: The program computes cryptographic hash values to uniquely identify files, ensuring that even files with different names are detected as duplicates if their content is identical.
 * Persistent Hash Storage: Hashes of previously scanned files are saved, allowing for efficient rescanning of directories to detect duplicates among newly added files.
 * Excel Export: The program generates an Excel file listing original and duplicate files with their paths.
-* File and Directory Support: Accepts both single file and directory inputs for flexible processing.
+* File and Directory Support: Accepts both single file and directory inputs for flexible processing, and automatically scans the subfolders.
+
+## Installation
+1. Clone the repository
+2. Install the required dependencies: <pre><code>pip install -r requirements.txt</code></pre>
