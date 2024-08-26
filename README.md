@@ -13,3 +13,9 @@ Duplicate Media Finder is a Python-based application designed to identify and re
 ## Installation
 1. Clone the repository
 2. Install the required dependencies: <pre><code>pip install -r requirements.txt</code></pre>
+
+## Usage
+* update the directory path in the dup_finder.py and run.
+
+## Contribution
+If you find any issues or have feature suggestions, feel free to open an issue or submit a pull request.
