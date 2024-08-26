@@ -18,7 +18,7 @@ Duplicate Media Finder is a Python-based application designed to identify and re
 * update the directory path in the dup_finder.py and run.
 * the checksums will be stored in checksums.json and duplicates if found would be stored in duplicates.xlsx
 * run delete_duplicates.py to automatically delete all the found duplicates
-* run compare_and_delete to visually confirm the duplicates and then delete.
+* run compare_and_delete.py to visually confirm the duplicates and then delete.
 * delete the duplicates.xlsx afterwards 
 
 ## Contribution
